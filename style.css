@@ -1,0 +1,64 @@
+body{
+    background-color: #012043;
+    margin: 0px;
+}
+
+.header{
+    border: solid black 2px;
+    height: 200px;
+
+}
+#imagemTopo{ 
+    margin: auto;
+    text-align: center;
+    width: 1000px;
+    height: 200px;
+    display: block;
+}
+
+
+.container {
+    color: white;
+    background-color: #D34646;
+    padding: 10px;
+    margin: 10px auto;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px 20px 10px 30px;
+}
+
+.container-exibir{
+width:300px;
+height: 300px;
+
+
+}
+
+#buscar{
+    margin: 10px; 
+    border-radius: 20px;
+    width: 150px;
+}
+
+.divPokemon{
+    background-color: gainsboro;
+    width: 200px;
+
+}
+
+#typePokemon{
+    font-size: 30px;
+    display: inline-block;
+    background-color: green;
+    border-radius: 50px;
+    width: 120px;
+
+}
+#type2Pokemon{
+    font-size: 30px;
+    display: inline-block;
+    background-color: plum;
+    border-radius: 50px;
+    width: 120px;
+
+}
